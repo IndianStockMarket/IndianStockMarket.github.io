@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+title: "An Introduction to Indian Stock Market"
+description: "Learn the Basics of Indian Stock Market for Investing"
+github:
+  repository_url: https://github.com/IndianStockMarket/IndianStockMarket.github.io
+  is_project_page: true
+  owner_url: "https://twitter.com/baijum"
+  owner_name: "Baiju Muthukadan (baiju.m.mail@gmail.com)"
